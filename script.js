@@ -44,6 +44,3 @@ function game (CPUresult, casePlayerChoise) {
 let gameResult = game(CPUresult, casePlayerChoise);
 
 console.log(gameResult);
-
-function 
-
